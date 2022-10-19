@@ -7,6 +7,6 @@
 系級：科技系114級  
 ## 課程筆記區  
 ## 作業連結區
- [作業一]（https://www.youtube.com/watch?v=PAV-kqn2Bpk）
+ [作業一](https://www.youtube.com/watch?v=PAV-kqn2Bpk)
  [作業二]
 ## 專題連結區
